@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <WheelsNumber>0</WheelsNumber>
+    <IsActive>true</IsActive>
+    <Model>BELAZ</Model>
+    <Speed>40</Speed>
+    <ManufacturerCountry>BELARUS</ManufacturerCountry>
+    <Cost>40000000</Cost>
+  </Car>
+  <Car>
+    <WheelsNumber>0</WheelsNumber>
+    <IsActive>true</IsActive>
+    <Model>MAZ</Model>
+    <Speed>90</Speed>
+    <ManufacturerCountry>BELARUS</ManufacturerCountry>
+    <Cost>60000</Cost>
+  </Car>
+  <Car>
+    <WheelsNumber>0</WheelsNumber>
+    <IsActive>true</IsActive>
+    <Model>UAZ</Model>
+    <Speed>120</Speed>
+    <ManufacturerCountry>BELARUS</ManufacturerCountry>
+    <Cost>5000</Cost>
+  </Car>
+</ArrayOfCar>

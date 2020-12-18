@@ -1,0 +1,24 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Car[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab5/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+</SOAP-ENC:Array>
+<a1:Car id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab5/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_IsActive_x003E_k__BackingField>true</_x003C_IsActive_x003E_k__BackingField>
+<_x003C_Model_x003E_k__BackingField id="ref-5">Mercedes</_x003C_Model_x003E_k__BackingField>
+<_x003C_Speed_x003E_k__BackingField>260</_x003C_Speed_x003E_k__BackingField>
+<_x003C_ManufacturerCountry_x003E_k__BackingField id="ref-6">Germany</_x003C_ManufacturerCountry_x003E_k__BackingField>
+<_x003C_Cost_x003E_k__BackingField>120000</_x003C_Cost_x003E_k__BackingField>
+<Vehicle_x002B__x003C_WheelsNumber_x003E_k__BackingField>0</Vehicle_x002B__x003C_WheelsNumber_x003E_k__BackingField>
+</a1:Car>
+<a1:Car id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab5/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_IsActive_x003E_k__BackingField>true</_x003C_IsActive_x003E_k__BackingField>
+<_x003C_Model_x003E_k__BackingField id="ref-7">Porsche</_x003C_Model_x003E_k__BackingField>
+<_x003C_Speed_x003E_k__BackingField>270</_x003C_Speed_x003E_k__BackingField>
+<_x003C_ManufacturerCountry_x003E_k__BackingField href="#ref-6"/>
+<_x003C_Cost_x003E_k__BackingField>140000</_x003C_Cost_x003E_k__BackingField>
+<Vehicle_x002B__x003C_WheelsNumber_x003E_k__BackingField>0</Vehicle_x002B__x003C_WheelsNumber_x003E_k__BackingField>
+</a1:Car>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

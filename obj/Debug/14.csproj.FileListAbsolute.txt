@@ -1,0 +1,17 @@
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.csprojAssemblyReference.cache
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.exe.config
+C:\Users\imngl\source\repos\14\14\bin\Debug\14.exe.config
+C:\Users\imngl\source\repos\14\14\bin\Debug\14.exe
+C:\Users\imngl\source\repos\14\14\bin\Debug\14.pdb
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Memory.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Text.Json.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\imngl\source\repos\14\14\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.csproj.CopyComplete
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.exe
+C:\Users\imngl\source\repos\14\14\obj\Debug\14.pdb
+C:\Users\imngl\source\repos\14\14\bin\Debug\System.Buffers.dll
